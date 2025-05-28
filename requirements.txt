@@ -1,0 +1,5 @@
+requests
+pandas
+matplotlib
+annorepo-client
+ipykernel
